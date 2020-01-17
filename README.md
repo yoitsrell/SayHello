@@ -51,16 +51,16 @@
 # <span style="color:red"> Warning!!!! DON'T TRY THIS AT HOME!!!! </span>
 </span>
 
-<div class="panel panel-warning"></div>
+<div class="panel panel-warning">
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XxRhM9rtIbM
 " target="_blank"><img src="http://img.youtube.com/vi/XxRhM9rtIbM/0.jpg" 
-alt="Wrestling Video" width="240" height="180" border="10" /></a>
+alt="Wrestling Video" width="400" height="250" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GJ_dCHmCTrQ
 " target="_blank"><img src="http://img.youtube.com/vi/GJ_dCHmCTrQ/0.jpg" 
-alt="Tag Highlights" width="240" height="180" border="10" /></a>
-
+alt="Tag Highlights" width="400" height="250" border="10" /></a>
+</div>
 
 ## **Occupation**
 <span style="color:green">Professional Wrestler
