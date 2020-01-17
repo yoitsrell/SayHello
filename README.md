@@ -22,12 +22,12 @@
     Third Rail Electrician - Amtrak
     Field Service Engineer - Tokyo Electron
     Electrician's Mate - US Navy
-    Clerk - Stonehedge Comics
+    Clerk - Stonehenge Comics
 ## Goals
     1. Complete Coding School
     2. Buy another house
-    3. Buy another investment property
-    4. Have enough supplemental income to not be forced to work by 40.
+    3. Buy investment property
+    4. Have enough passive income to not be forced to work by 40
 
 # Say Hello to Fungus
 
@@ -55,11 +55,11 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XxRhM9rtIbM
 " target="_blank"><img src="http://img.youtube.com/vi/XxRhM9rtIbM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Wrestling Video" width="240" height="180" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GJ_dCHmCTrQ
 " target="_blank"><img src="http://img.youtube.com/vi/GJ_dCHmCTrQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Tag Highlights" width="240" height="180" border="10" /></a>
 
 
 ## **Occupation**
