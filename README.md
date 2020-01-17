@@ -4,20 +4,20 @@
 <!-- TOC -->
   
 
-  - <span style="color:green">[<span style="color:green">**Meet Fungus:**</span>](#meet-fungus)
+  - <span style="color:green">[<span style="color:green">**Meet Fungus**</span>](#meet-fungus)
   
-  - [<span style="color:green">**Occupation:**](#occupation)
+  - [<span style="color:green">**Occupation**](#occupation)
   
   - [<span style="color:green">**List of accomplishments**:](#list-of-accomplishments)
   
-  - [<span style="color:green">**Goals**:](#goals)
+  - [<span style="color:green">**Goals**](#goals)
 
 
-## Meet Fungus:
+## Meet Fungus
 
 ![Fungus](Downloads/fungus.jpeg) 
 
-# <span style="color:red">Warning!!!! DON'T TRY THIS AT HOME!!!! </span>
+# <span style="color:red"> Warning!!!! DON'T TRY THIS AT HOME!!!! </span>
 </span>
 
 <div class="panel panel-warning"></div>
@@ -26,7 +26,8 @@
   <iframe src="https://www.youtube.com/embed/XxRhM9rtIbM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-## **Occupation:**
+
+## **Occupation**
 <span style="color:green">Professional Wrestler
 
 ## **List of accomplishments**:
@@ -35,7 +36,7 @@
     * Current holder of the ECPW HV Contract in a Case  
     * Leader of the Funhouse 
   
-## **Goals**:
+## **Goals**
     
     1. Win Heavyweight Title
     2. Become 1st ECPW HV triple crown champion
