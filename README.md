@@ -1,6 +1,19 @@
 # Say Hello to Fungus
 
 ## Meet Fungus:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XxRhM9rtIbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![Fungus](Downloads/fungus.jpeg) 
+
+
+[![This is awkward, just click the link -_-](fungus.jpeg)](http://www.youtube.com/watch?v=XxRhM9rtIbM)
+
+## **Occupation:**
+### Professional Wrestler
+
+## **List of accomplishments**:
+* Former ECPW HV Aggression Champion
+* Former ECPW HV Tag Champion
+* Current holder of the ECPW HV Contract in a Case.  
+* Leader of the Funhouse 
+  
 
