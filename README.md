@@ -16,7 +16,7 @@
 
 ## Occupation
 ### Current
-    WETS Principal Technician/Field Service Engineer 
+    WETS Principal Technician/Field Service Engineer - Globalfoundries
 
 ### Previous
     Third Rail Electrician - Amtrak
@@ -47,7 +47,7 @@
 ## Meet Fungus
 
 <!-- ![Fungus](Downloads/fungus.jpeg) switched to html to adjust size -->
-<img src="Downloads/fungus.jpeg" width="300">
+<img src="Downloads/fungus.jpeg" width="300"><img src="Downloads/Rell&#32;3_1.gif" width="300">
 
 # <span style="color:red"> Warning!!!! DON'T TRY THIS AT HOME!!!! </span>
 
