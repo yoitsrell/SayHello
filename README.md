@@ -12,8 +12,27 @@
 
 # Meet Tyrell 
 
+<br></br>
+
+<img src="Downloads/20190821_104147.jpg"  style="transform:rotate(270deg);">
 
 
+<br></br>
+Don't mind my face. I don't like taking pictures.
+<br></br>
+<br></br>
+<img src="Downloads/20191007_194316.jpg"
+style="transform:rotate(90deg);">
+
+<br></br>
+This is My Dog Hisoka, named after a character in the manga, Hunter X Hunter
+
+<br></br>
+<img src="Downloads/20191013_151817.jpg" style="transform:rotate(270deg);">
+
+<br></br>
+Random picture of the two of us
+<br></br>
 ## Occupation
 ### Current
     WETS Principal Technician/Field Service Engineer - Globalfoundries
@@ -48,8 +67,16 @@
 ## Meet Fungus
 
 <!-- ![Fungus](Downloads/fungus.jpeg) switched to html to adjust size -->
-<img src="Downloads/fungus.jpeg" width="300"><img src="Downloads/Rell&#32;3_1.gif" width="300" height="400">
+<img src="Downloads/fungus.jpeg" width="300">
+<br></br>
+Right after I won the ECPW TAG Titles
+<br></br>
+<img src="Downloads/Rell&#32;3_1.gif" width="300" height="400">
+<br></br>
+Kid tried to steal my glasses
+<br></br>
 
+<img src="downloads/../Downloads/SmartSelect_20191110-083413_Messenger.gif">
 # <span style="color:red"> Warning!!!! DON'T TRY THIS AT HOME!!!! </span>
 
 
