@@ -49,19 +49,25 @@
 ![Fungus](Downloads/fungus.jpeg)  
 
 # <span style="color:red"> Warning!!!! DON'T TRY THIS AT HOME!!!! </span>
-</span>
+
 
 <div class="panel panel-warning">
 
+    Fungus Vs Blanco:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XxRhM9rtIbM
 " target="_blank"><img src="http://img.youtube.com/vi/XxRhM9rtIbM/0.jpg" 
 alt="Wrestling Video" width="400" height="250" border="10" /></a>
 
+
+    Funhouse Vs Los Intocables (Highlights):
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GJ_dCHmCTrQ
 " target="_blank"><img src="http://img.youtube.com/vi/GJ_dCHmCTrQ/0.jpg" 
 alt="Tag Highlights" width="400" height="250" border="10" /></a>
 </div>
 
+
+
+###### Click images to view video*
 ## **Occupation**
 <span style="color:green">Professional Wrestler
 
