@@ -17,6 +17,7 @@
 ## Occupation
 ### Current
     WETS Principal Technician/Field Service Engineer - Globalfoundries
+    Student - Codeimmersives
 
 ### Previous
     Third Rail Electrician - Amtrak
