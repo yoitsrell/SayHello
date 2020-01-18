@@ -18,20 +18,27 @@
 
 
 <br></br>
-Don't mind my face. I don't like taking pictures.
+
+> Don't mind my face. I don't like taking pictures.
+
 <br></br>
-<br></br>
+
+
 <img src="Downloads/20191007_194316.jpg"
 style="transform:rotate(90deg);">
 
 <br></br>
-This is My Dog Hisoka, named after a character in the manga, Hunter X Hunter
+
+
+> This is My Dog Hisoka, named after a character in the manga, Hunter X Hunter
 
 <br></br>
+
 <img src="Downloads/20191013_151817.jpg" style="transform:rotate(270deg);">
 
 <br></br>
-Random picture of the two of us
+
+> Random picture of the two of us
 <br></br>
 ## Occupation
 ### Current
@@ -39,10 +46,10 @@ Random picture of the two of us
     Student - Codeimmersives
 
 ### Previous
-    Third Rail Electrician - Amtrak
-    Field Service Engineer - Tokyo Electron
-    Electrician's Mate - US Navy
-    Clerk - Stonehenge Comics
+*   Third Rail Electrician - Amtrak
+*   Field Service Engineer - Tokyo Electron
+*   Electrician's Mate - US Navy
+*   Clerk - Stonehenge Comics
 ## Goals
     1. Complete Coding School
     2. Buy another house
@@ -68,15 +75,18 @@ Random picture of the two of us
 
 <!-- ![Fungus](Downloads/fungus.jpeg) switched to html to adjust size -->
 <img src="Downloads/fungus.jpeg" width="300">
+
+> Right after I won the ECPW TAG Titles
 <br></br>
-Right after I won the ECPW TAG Titles
-<br></br>
+
 <img src="Downloads/Rell&#32;3_1.gif" width="300" height="400">
-<br></br>
-Kid tried to steal my glasses
+
+> Kid tried to steal my glasses
+
 <br></br>
 
 <img src="downloads/../Downloads/SmartSelect_20191110-083413_Messenger.gif">
+
 # <span style="color:red"> Warning!!!! DON'T TRY THIS AT HOME!!!! </span>
 
 
@@ -101,15 +111,14 @@ alt="Tag Highlights" width="400" height="250" border="10" /></a>
 <span style="color:green">Professional Wrestler
 
 ## **List of accomplishments**:
-    * Former ECPW HV Aggression Champion
-    * Former ECPW HV Tag Champion
-    * Current holder of the ECPW HV Contract in a Case  
-    * Leader of the Funhouse 
+*   Former ECPW HV Aggression Champion
+*   Former ECPW HV Tag Champion
+    Current holder of the ECPW HV Contract in a Case  
+*   Leader of the Funhouse 
   
 ## **Goals**
     
     1. Win Heavyweight Title
     2. Become 1st ECPW HV triple crown champion
     3. Never lose, ever
-
-
+  
