@@ -46,7 +46,8 @@
 
 ## Meet Fungus
 
-![Fungus](Downloads/fungus.jpeg)  
+<!-- ![Fungus](Downloads/fungus.jpeg) switched to html to adjust size -->
+<img src="Downloads/fungus.jpeg" width="300">
 
 # <span style="color:red"> Warning!!!! DON'T TRY THIS AT HOME!!!! </span>
 
