@@ -14,7 +14,7 @@
 
 <br></br>
 
-<img src="Downloads/20190821_104147.jpg">
+<img src="Downloads/20190821_104147.jpg" style="transform:rotate(270deg);">
 
 
 <br></br>
